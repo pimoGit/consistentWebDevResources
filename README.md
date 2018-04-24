@@ -21,10 +21,10 @@ Here's a nice start.
 - Comparing Yourself To Others [Advice] [https://www.youtube.com/watch?v=2IAV6R7vlrw] (how to stay motivated and don't be discouraged)
 
 ###YOUTUBE CHANNELS (useful and also fun)
-- https://www.youtube.com/user/shiffman/ [this guy brought the fun of programming back];
-- https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/ [nice to have a 'js show' and not just tutorials];
-- https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ;
-- https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA;
+- The Coding Train: [https://www.youtube.com/user/shiffman/] [this guy brought the fun of programming back];
+- Fun Fun Function: [https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/] [nice to have a 'js show' and not just tutorials];
+- DevTips: [https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ];
+- Wes Bos: [https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA];
 
 ###OTHER
 - https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.]
