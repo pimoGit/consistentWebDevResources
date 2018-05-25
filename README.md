@@ -35,6 +35,10 @@ Here's a nice start.
 - do not bring you down, always comparing yourself to others, everyone has strengths and weaknesses, and everything looks better from far away.
 
 
+##NEXT to check out (to do)
+- You-Dont-Know-JS ,  I'd say a well-known book series on JavaScript (you can find all the books online here: https://github.com/getify/You-Dont-Know-JS);
+- Learning JavaScript Design Patterns [by Addy Osmani], Design Pattern in JS context, it sounds interesting (you can read it online here:https://addyosmani.com/resources/essentialjsdesignpatterns/book/).
+
 
 Pull requests welcomed!
 
