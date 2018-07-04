@@ -33,7 +33,8 @@ Here's a nice start.
 - find a way to create a good habit for it;
 - do not force too much yourself but keep on searching for the fun side of learning new stuff, it's crucial to be very effective;
 - do not bring you down, always comparing yourself to others, everyone has strengths and weaknesses, and everything looks better from far away;
-- the most effective way to grasp a concept is to learn it at different times from different sources, only like this you can have different perspectives on it and reach a more complete view.
+- the most effective way to grasp a concept is to learn it at different times from different sources, only like this you can have different perspectives on it and reach a more complete view;
+- do not try to push piles of info in your mind continuously, but manage the right breaks, have a walk, a bike ride, give time to your brain to digests.
 
 
 ##NEXT to check out (to do)
