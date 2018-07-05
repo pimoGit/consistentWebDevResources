@@ -24,7 +24,8 @@ Here's a nice start.
 - The Coding Train: [https://www.youtube.com/user/shiffman/] [this guy brought the fun of programming back];
 - Fun Fun Function: [https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/] [nice to have a 'js show' and not just tutorials];
 - DevTips: [https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ];
-- Wes Bos: [https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA].
+- Wes Bos: [https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA]:
+- freeCodeCamp [https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ].
 
 ###OTHER
 - https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.].
