@@ -15,7 +15,7 @@ Here's a nice start.
 - Design Patterns Elements of reusable Object-Oriented Software [by GOF];
 - JavaScript: The Good Parts [by Douglas Crockford];
 - Think Python: How to Think Like a Computer Scientist [by Allen B. Downey] (you can read it online here: http://greenteapress.com/thinkpython2/html/index.html) [NOT a front-end book but very useful to learn a programming thinking process];
-- Learning JavaScript Design Patterns [by Addy Osmani], Design Pattern in JS context, it sounds interesting (you can read it online here:https://addyosmani.com/resources/essentialjsdesignpatterns/book/) [WARNING: Not so recent and maybe you can skip some parts because of it, but I think it still brings a good context perception about patterns in JS. If you want, read my overview first, to decide whether or not could be interesting for you.].
+- Learning JavaScript Design Patterns [by Addy Osmani], Design Pattern in JS context, it sounds interesting (you can read it online here:https://addyosmani.com/resources/essentialjsdesignpatterns/book/) [WARNING: Not so recent and maybe you can skip some parts because of it, but I think it still brings a good context perception about patterns in JS. If you want, read my overview first [https://github.com/pimoGit/consistentWebDevResources/blob/master/overview-js-design-patterns-book.md], to decide whether or not could be interesting for you.].
 
 ###VIDEOS
 - Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 [https://www.youtube.com/watch?v=8aGhZQkoFbQ] (With some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs.);
