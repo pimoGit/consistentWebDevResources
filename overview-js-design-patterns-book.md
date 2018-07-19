@@ -1,5 +1,8 @@
 # THIS IS JUST MY  PERSONAL OVERVIEW 
-About the book Learning JavaScript Design Patterns [by Addy Osmani].
+###About the book Learning JavaScript Design Patterns [by Addy Osmani].
+
+----------------------------------------------------------------------
+
 
 It's just a shot of my feeling, experiencing the reading of it, based on my background.
 
