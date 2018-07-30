@@ -29,7 +29,8 @@ Here's a nice start.
 - freeCodeCamp [https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ].
 
 ###OTHER
-- https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.].
+- https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.];
+- http://www.jspatterns.com/ [Exploring common JavaScript patterns and anti-patterns. I found it interesting because it shows also some specific JS paths and peculiarities. It has also an intro on node shell scripting. Very fast to explore.].
 
 ###TIPS
 - find a way to create a good habit for it;
