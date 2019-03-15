@@ -33,6 +33,11 @@ Here's a nice start.
 - https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.];
 - http://www.jspatterns.com/ [Exploring common JavaScript patterns and anti-patterns. I found it interesting because it shows also some specific JS paths and peculiarities. It has also an intro on node shell scripting. Very fast to explore.].
 
+###TODO
+- https://github.com/getify/Functional-Light-JS - by the same author of You-Dont-Know-JS, Kyle Simpson, on functional programming in javascript. It sounds good to me.
+
+
+
 ###TIPS
 - find a way to create a good habit for it;
 - do not force too much yourself but keep on searching for the fun side of learning new stuff, it's crucial to be very effective;
