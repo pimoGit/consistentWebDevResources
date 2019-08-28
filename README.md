@@ -46,7 +46,8 @@ Here's a nice start.
 - do not try to push piles of info into your mind continuously, but take the right breaks, have a walk, a bike ride, give time to your brain to digest.
 
 ###MENTIONS
-- [About new stuff: new power means new responsibilities]: "Warning: As a word of caution, be very careful about the readability of your code with such new found power. Just like with default value expressions and destructuring assignment expressions, just because you can do something doesn't mean you should do it. Never go so overboard with new ES6 tricks that your code becomes more clever than you or your other team members."
+- [About new stuff: new power means new responsibilities]: "Warning: As a word of caution, be very careful about the readability of your code with such new found power. Just like with default value expressions and destructuring assignment expressions, just because you can do something doesn't mean you should do it. Never go so overboard with new ES6 tricks that your code becomes more clever than you or your other team members.";
+- Remember: code is at least as much about communicating to other developers as it is about feeding the computer instructions.
 
 
 Pull requests welcomed!
