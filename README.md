@@ -43,7 +43,8 @@ Here's a nice start.
 - do not force too much yourself but keep on searching for the fun side of learning new stuff, it's crucial to be very effective;
 - do not bring you down, always comparing yourself to others, everyone has strengths and weaknesses, and everything looks better from far away;
 - the most effective way to grasp a concept is to learn it at different times, from different sources, only like this you can have different perspectives on it and reach a more complete view;
-- do not try to push piles of info into your mind continuously, but take the right breaks, have a walk, a bike ride, give time to your brain to digest.
+- do not try to push piles of info into your mind continuously, but take the right breaks, have a walk, a bike ride, give time to your brain to digest;
+- keep your flame about what you do alive, do something useless just becouse you want, play with code, do not force yourself to write the best code while you're on this aspect. I think you have to find time for this, it's crucial, also to keep yourself productive.
 
 ###MENTIONS
 - [About new stuff: new power means new responsibilities]: "Warning: As a word of caution, be very careful about the readability of your code with such new found power. Just like with default value expressions and destructuring assignment expressions, just because you can do something doesn't mean you should do it. Never go so overboard with new ES6 tricks that your code becomes more clever than you or your other team members.";
