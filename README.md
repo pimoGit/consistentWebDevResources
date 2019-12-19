@@ -12,7 +12,7 @@ Here's a nice start.
 
 
 ###BOOKS
-- Design Patterns Elements of reusable Object-Oriented Software [by GOF] [you can find it also here: https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf];
+- Design Patterns Elements of reusable Object-Oriented Software [by GOF] ;
 - JavaScript: The Good Parts [by Douglas Crockford] [you can find it also here: https://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf];
 - Think Python: How to Think Like a Computer Scientist [by Allen B. Downey] (you can read it online here: http://greenteapress.com/thinkpython2/html/index.html) [NOT a front-end book but very useful to learn a programming thinking process];
 - Learning JavaScript Design Patterns [by Addy Osmani], Design Pattern in JS context, it sounds interesting (you can read it online here:https://addyosmani.com/resources/essentialjsdesignpatterns/book/) [WARNING: Not so recent and maybe you can skip some parts because of it, but I think it still brings a good context perception about patterns in JS. If you want, read my overview first [https://github.com/pimoGit/consistentWebDevResources/blob/master/overview-js-design-patterns-book.md], to decide whether or not could be interesting for you.];
