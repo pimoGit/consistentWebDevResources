@@ -47,8 +47,11 @@ Here's a nice start.
 - keep your flame about what you do alive, do something useless just becouse you want, play with code, do not force yourself to write the best code while you're on this aspect. I think you have to find time for this, it's crucial, also to keep yourself productive.
 
 ###MENTIONS
+- [I'd say this is true on learning in general]... "I don't think it's possible to ever fully know JS. That's not an achievement to be obtained, but a goal to strive after. You don't finish knowing everything about JS, you just keep learning more and more as you spend more time with the language. And the deeper you go, the more you revisit what you knew before, and you re-learn it from that more experienced perspective.
+....
+And the deeper you understand JS, the more questions you will ask and the more you will have to explore! That's what I find so exciting!";
 - [About new stuff: new power means new responsibilities]: "Warning: As a word of caution, be very careful about the readability of your code with such new found power. Just like with default value expressions and destructuring assignment expressions, just because you can do something doesn't mean you should do it. Never go so overboard with new ES6 tricks that your code becomes more clever than you or your other team members.";
-- Remember: code is at least as much about communicating to other developers as it is about feeding the computer instructions.
+- "Remember: code is at least as much about communicating to other developers as it is about feeding the computer instructions".
 
 
 Pull requests welcomed!
