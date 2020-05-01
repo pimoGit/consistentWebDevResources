@@ -31,7 +31,8 @@ Here's a nice start.
 
 ###OTHER
 - https://johnresig.com/apps/learn/ [Learning Advanced JavaScript - through interactive examples - This tutorial contains code and discussion from the book 'Secrets of the JavaScript Ninja' by John Resig.];
-- http://www.jspatterns.com/ [Exploring common JavaScript patterns and anti-patterns. I found it interesting because it shows also some specific JS paths and peculiarities. It has also an intro on node shell scripting. Very fast to explore.].
+- http://www.jspatterns.com/ [Exploring common JavaScript patterns and anti-patterns. I found it interesting because it shows also some specific JS paths and peculiarities. It has also an intro on node shell scripting. Very fast to explore.];
+- https://frontendfoc.us/ [A very interesting newsletter to subscribe to, a once–weekly roundup of the best front-end news, articles and tutorials].
 
 ###TODO
 - https://github.com/getify/Functional-Light-JS - by the same author of You-Dont-Know-JS, Kyle Simpson, on functional programming in javascript. It sounds good to me.
