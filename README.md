@@ -1,4 +1,4 @@
-# Stay consistent as a front-end web developer
+# Stay consistent as a front-end Web Developer
 
 Here are some resources, books, YouTube channels etc. that I found profoundly useful
 to stay consistent as a front-end web dev.
