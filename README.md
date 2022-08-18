@@ -20,6 +20,7 @@ Here's a nice start.
 
 ###VIDEOS
 - Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 [https://www.youtube.com/watch?v=8aGhZQkoFbQ] (With some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs.);
+- A very good overview about how web components work and how they could be a good standardization for components, pros and cons [https://www.youtube.com/watch?v=fEhBkSZ15qM&list=PL2piURAKecz_nvgSRzdiispkxwb3Bt3B5&index=4];
 - Comparing Yourself To Others [Advice] [https://www.youtube.com/watch?v=2IAV6R7vlrw] (how to stay motivated and don't be discouraged).
 
 ###YOUTUBE CHANNELS (useful and also fun)
