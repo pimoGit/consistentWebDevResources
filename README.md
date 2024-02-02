@@ -6,6 +6,7 @@ to stay consistent as a front-end web dev.
 I would love to put together a good list that could remain essential and very very useful, so not a very long or verbose but a very concise and straight to the point one.
 
 If you are a beginner this is a post I wrote that could be a good place to kick off: [https://www.simoneicardi.com/hacks-utili-per-junior-developer-e-per-affrontare-al-meglio-un-boot-camp/]
+(It is just in Italian for now. I hoper I will have time for traslate it soon.)
 
 The following is not properly a list for beginners but more a list for who  already is a front-end web dev pro and is constantly trying to become a better dev every day, step by step, in both directions, consolidating the base and going forward on the top, learning the new stuff.
 
